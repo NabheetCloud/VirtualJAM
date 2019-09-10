@@ -1,4 +1,5 @@
 # VJAM
+![VJAM](logo.PNG)
 ## Background
 The intent of starting this VJAM is as follow 
 - To involve all those developers who don't have local community but want to learn
