@@ -10,6 +10,8 @@ The intent of starting this VJAM is as follow
 
 ## How we will execute it?
 - 45-50% of the time will be for the presenter and rest for the participants.
+- Presenter will divide his/her sessions logically so as to make sure all participants can do whatever is show cased.
+- Participant will have some pre-requiste before the session which will help them in finish the VJAM on/before time.
 
 ## Who can Participate?
 - Anyone to everyone only thing needed is a willingness to learn.
@@ -22,7 +24,7 @@ The intent of starting this VJAM is as follow
 - The access to different system varies from topic to topic. Every event will have a pre-requiste which needs to be done before joining the session
 
 ## VJAM Event Calendar
-- We are going start with our first VJAM in month of Oct 2019 with topic as [Fiori Elements](https://github.com/NabheetCloud/VJAM/tree/master/Fiori%20Elements).
+- We are going start with our first VJAM in month of Oct 2019 with topic as [Fiori Elements](https://github.com/NabheetCloud/VirtualJAM/tree/master/Fiori%20Elements).
 
 ## How do we nominate ourself?
 - Please reach out to me on [SAP Community](), [Twitter](https://twitter.com/nabheet), [LinkedIn](https://www.linkedin.com/in/nabheet-madan-80594821/), telegram id ***@nabheetmadan*** or [email me](nabheet.jobs@gmail.com)
