@@ -1,4 +1,4 @@
-# VirtualJAM - Fiori Elements
+# VJAM - Fiori Elements
 ## Pre-requiste
 - SAP Cloud Platform Trial Access
 - SAP ES5 Gateway Access

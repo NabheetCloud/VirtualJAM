@@ -1,9 +1,15 @@
-# VirtualJAM
+# VJAM
 ## Background
-The intent of starting this Virtual JAM is as follow 
+The intent of starting this VJAM is as follow 
 - To involve all those developers who don't have local community but want to learn
 - To involve all those developers who can not attend an actual CodeJAM
-- To learn from each other what they know, its very difficult to learn everything but in VirtualJAM the experts in that subject can help us learn
+- To learn from each other what they know, its very difficult to learn everything but in VJAM the experts in that subject can help us learn
+
+## Duration of the Virtual JAM
+- Everyone is busy with his/her work so keeping in mind a VJAM duration can vary from 1 hour to 2 hours max.
+
+## How we will execute it?
+- 45-50% of the time will be for the presenter and rest for the participants.
 
 ## Who can Participate?
 - Anyone to everyone only thing needed is a willingness to learn.
@@ -15,8 +21,8 @@ The intent of starting this Virtual JAM is as follow
 - You need a laptop/deskotop 
 - The access to different system varies from topic to topic. Every event will have a pre-requiste which needs to be done before joining the session
 
-## VirtualJAM Event Calendar
-- We are going start with our first VirtualJAM in month of Oct 2019 with topic as Fiori Elements.
+## VJAM Event Calendar
+- We are going start with our first VJAM in month of Oct 2019 with topic as [Fiori Elements](https://github.com/NabheetCloud/VJAM/tree/master/Fiori%20Elements).
 
 ## How do we nominate ourself?
 - Please reach out to me on [SAP Community](), [Twitter](https://twitter.com/nabheet), [LinkedIn](https://www.linkedin.com/in/nabheet-madan-80594821/), telegram id ***@nabheetmadan*** or [email me](nabheet.jobs@gmail.com)
