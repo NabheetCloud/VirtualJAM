@@ -27,5 +27,5 @@ The intent of starting this VJAM is as follow
 ## VJAM Event Calendar
 - We are going start with our first VJAM in month of Oct 2019 with topic as [Fiori Elements](https://github.com/NabheetCloud/VirtualJAM/tree/master/Fiori%20Elements).
 
-## How do we nominate ourself?
+## How can we participate?
 - Please reach out to me on [SAP Community](), [Twitter](https://twitter.com/nabheet), [LinkedIn](https://www.linkedin.com/in/nabheet-madan-80594821/), telegram id ***@nabheetmadan*** or [email me](nabheet.jobs@gmail.com)
